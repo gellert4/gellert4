@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gellert4
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning software engineering, őython
+- 🌱 I’m currently learning software engineering, python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me szalai2003@gmail.com
 
