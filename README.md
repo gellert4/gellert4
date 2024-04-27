@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gellért Szalai</h1>
-<h3 align="center">A passionate Computer Technology student from Hungary</h3>
+<h3 align="center">A passionate Software Technology student from Hungary</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gellert4&label=Profile%20views&color=0e75b6&style=flat" alt="gellert4" /> </p>
 
